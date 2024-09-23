@@ -1,0 +1,6 @@
+[submodule "Task-Manager-Client"]
+	path = Task-Manager-Client
+	url = git@github.com:C4HK1/Task-Manager-Client
+[submodule "Task-Manager-Server"]
+	path = Task-Manager-Server
+	url = git@github.com:C4HK1/Task-Manager-Server
