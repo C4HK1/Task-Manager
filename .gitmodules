@@ -1,6 +1,8 @@
 [submodule "Task-Manager-Client"]
 	path = Task-Manager-Client
 	url = git@github.com:C4HK1/Task-Manager-Client
+	branch = release
 [submodule "Task-Manager-Server"]
 	path = Task-Manager-Server
 	url = git@github.com:C4HK1/Task-Manager-Server
+	branch = release
