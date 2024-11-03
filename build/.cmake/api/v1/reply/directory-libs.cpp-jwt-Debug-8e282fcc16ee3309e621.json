@@ -1,0 +1,87 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"libs/cpp-jwt/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 82,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 93,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 102,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "dev",
+			"destination" : "share/cmake/cpp-jwt",
+			"exportName" : "cpp-jwtTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "cpp-jwt::@b41d6f7a3a2c44c02116",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"libs/cpp-jwt/CMakeFiles/Export/6d33276e3a2d9234de7e4ec64fb905a8/cpp-jwtTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "dev",
+			"destination" : "share/cmake/cpp-jwt",
+			"paths" : 
+			[
+				"/home/alex/Desktop/Task-Manager/build/libs/cpp-jwt/cpp-jwtConfig.cmake",
+				"/home/alex/Desktop/Task-Manager/build/libs/cpp-jwt/cpp-jwtConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "dev",
+			"destination" : "include/jwt",
+			"paths" : 
+			[
+				{
+					"from" : "libs/cpp-jwt/include/jwt",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "libs/cpp-jwt",
+		"source" : "libs/cpp-jwt"
+	}
+}

@@ -1,0 +1,134 @@
+[
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/main.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/main.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/main.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/models/profile.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/profile.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/profile.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/models/profile.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/models/room.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/room.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/room.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/models/room.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/models/task.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/task.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/task.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/models/task.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/models/config.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/config.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/config.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/models/config.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/models/timer.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/timer.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/timer.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/models/timer.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/services/JWT_manager.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/services/JWT_manager.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/services/JWT_manager.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/services/JWT_manager.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/services/file_parser.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/services/file_parser.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/services/file_parser.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/services/file_parser.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/services/data_base_manager.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/services/data_base_manager.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/services/data_base_manager.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/services/data_base_manager.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/server/http_connection.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/server/http_connection.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/server/http_connection.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/server/http_connection.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/server/request_handler.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/server/request_handler.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/server/request_handler.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/server/request_handler.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/server/server_status.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/server/server_status.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/server/server_status.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/server/server_status.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/certs\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/tests/CMakeFiles/test_jwt_object.dir/test_jwt_object.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_object.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_object.cc",
+  "output": "libs/cpp-jwt/tests/CMakeFiles/test_jwt_object.dir/test_jwt_object.cc.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/certs\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/tests/CMakeFiles/test_jwt_encode.dir/test_jwt_encode.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_encode.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_encode.cc",
+  "output": "libs/cpp-jwt/tests/CMakeFiles/test_jwt_encode.dir/test_jwt_encode.cc.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/certs\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/tests/CMakeFiles/test_jwt_decode.dir/test_jwt_decode.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_decode.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_decode.cc",
+  "output": "libs/cpp-jwt/tests/CMakeFiles/test_jwt_decode.dir/test_jwt_decode.cc.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/certs\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/tests/CMakeFiles/test_jwt_decode_verifiy.dir/test_jwt_decode_verifiy.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_decode_verifiy.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_decode_verifiy.cc",
+  "output": "libs/cpp-jwt/tests/CMakeFiles/test_jwt_decode_verifiy.dir/test_jwt_decode_verifiy.cc.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/certs\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/tests/CMakeFiles/test_jwt_decode_verifiy_with_exception.dir/test_jwt_decode_verifiy_with_exception.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_decode_verifiy_with_exception.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_decode_verifiy_with_exception.cc",
+  "output": "libs/cpp-jwt/tests/CMakeFiles/test_jwt_decode_verifiy_with_exception.dir/test_jwt_decode_verifiy_with_exception.cc.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/certs\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/tests/CMakeFiles/test_jwt_rsa.dir/test_jwt_rsa.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_rsa.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_rsa.cc",
+  "output": "libs/cpp-jwt/tests/CMakeFiles/test_jwt_rsa.dir/test_jwt_rsa.cc.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -DGTEST_LINKED_AS_SHARED_LIBRARY=1 -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/certs\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/tests/CMakeFiles/test_jwt_es.dir/test_jwt_es.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_es.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/tests/test_jwt_es.cc",
+  "output": "libs/cpp-jwt/tests/CMakeFiles/test_jwt_es.dir/test_jwt_es.cc.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/examples/rsa_256\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/examples/CMakeFiles/simple_ex1.dir/simple_ex1.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/examples/simple_ex1.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/examples/simple_ex1.cc",
+  "output": "libs/cpp-jwt/examples/CMakeFiles/simple_ex1.dir/simple_ex1.cc.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/examples/rsa_256\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/examples/CMakeFiles/simple_ex2.dir/simple_ex2.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/examples/simple_ex2.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/examples/simple_ex2.cc",
+  "output": "libs/cpp-jwt/examples/CMakeFiles/simple_ex2.dir/simple_ex2.cc.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include  -DCERT_ROOT_DIR=\"\\\"/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/examples/rsa_256\\\"\" -g -std=gnu++17 -o libs/cpp-jwt/examples/CMakeFiles/simple_ex3_rsa.dir/simple_ex3_rsa.cc.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/examples/simple_ex3_rsa.cc",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/examples/simple_ex3_rsa.cc",
+  "output": "libs/cpp-jwt/examples/CMakeFiles/simple_ex3_rsa.dir/simple_ex3_rsa.cc.o"
+}
+]
