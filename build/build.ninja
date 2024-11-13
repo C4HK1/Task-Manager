@@ -97,6 +97,14 @@ build CMakeFiles/RestfulApi.dir/src/models/timer.cpp.o: CXX_COMPILER__RestfulApi
   OBJECT_DIR = CMakeFiles/RestfulApi.dir
   OBJECT_FILE_DIR = CMakeFiles/RestfulApi.dir/src/models
 
+build CMakeFiles/RestfulApi.dir/src/models/invite.cpp.o: CXX_COMPILER__RestfulApi_unscanned_Debug /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/invite.cpp || cmake_object_order_depends_target_RestfulApi
+  DEFINES = -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON
+  DEP_FILE = CMakeFiles/RestfulApi.dir/src/models/invite.cpp.o.d
+  FLAGS = -g -std=gnu++17
+  INCLUDES = -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include
+  OBJECT_DIR = CMakeFiles/RestfulApi.dir
+  OBJECT_FILE_DIR = CMakeFiles/RestfulApi.dir/src/models
+
 build CMakeFiles/RestfulApi.dir/src/services/JWT_manager.cpp.o: CXX_COMPILER__RestfulApi_unscanned_Debug /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/services/JWT_manager.cpp || cmake_object_order_depends_target_RestfulApi
   DEFINES = -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON
   DEP_FILE = CMakeFiles/RestfulApi.dir/src/services/JWT_manager.cpp.o.d
@@ -153,7 +161,7 @@ build CMakeFiles/RestfulApi.dir/src/server/server_status.cpp.o: CXX_COMPILER__Re
 #############################################
 # Link the executable RestfulApi
 
-build RestfulApi: CXX_EXECUTABLE_LINKER__RestfulApi_Debug CMakeFiles/RestfulApi.dir/src/main.cpp.o CMakeFiles/RestfulApi.dir/src/models/profile.cpp.o CMakeFiles/RestfulApi.dir/src/models/room.cpp.o CMakeFiles/RestfulApi.dir/src/models/task.cpp.o CMakeFiles/RestfulApi.dir/src/models/config.cpp.o CMakeFiles/RestfulApi.dir/src/models/timer.cpp.o CMakeFiles/RestfulApi.dir/src/services/JWT_manager.cpp.o CMakeFiles/RestfulApi.dir/src/services/file_parser.cpp.o CMakeFiles/RestfulApi.dir/src/services/data_base_manager.cpp.o CMakeFiles/RestfulApi.dir/src/server/http_connection.cpp.o CMakeFiles/RestfulApi.dir/src/server/request_handler.cpp.o CMakeFiles/RestfulApi.dir/src/server/server_status.cpp.o | /usr/local/lib/libboost_system.so.1.83.0 /usr/local/lib/libboost_filesystem.so.1.83.0 /usr/local/lib/libboost_atomic.so.1.83.0 /usr/lib/libssl.so /usr/lib/libcrypto.so
+build RestfulApi: CXX_EXECUTABLE_LINKER__RestfulApi_Debug CMakeFiles/RestfulApi.dir/src/main.cpp.o CMakeFiles/RestfulApi.dir/src/models/profile.cpp.o CMakeFiles/RestfulApi.dir/src/models/room.cpp.o CMakeFiles/RestfulApi.dir/src/models/task.cpp.o CMakeFiles/RestfulApi.dir/src/models/config.cpp.o CMakeFiles/RestfulApi.dir/src/models/timer.cpp.o CMakeFiles/RestfulApi.dir/src/models/invite.cpp.o CMakeFiles/RestfulApi.dir/src/services/JWT_manager.cpp.o CMakeFiles/RestfulApi.dir/src/services/file_parser.cpp.o CMakeFiles/RestfulApi.dir/src/services/data_base_manager.cpp.o CMakeFiles/RestfulApi.dir/src/server/http_connection.cpp.o CMakeFiles/RestfulApi.dir/src/server/request_handler.cpp.o CMakeFiles/RestfulApi.dir/src/server/server_status.cpp.o | /usr/local/lib/libboost_system.so.1.83.0 /usr/local/lib/libboost_filesystem.so.1.83.0 /usr/local/lib/libboost_atomic.so.1.83.0 /usr/lib/libssl.so /usr/lib/libcrypto.so
   FLAGS = -g
   LINK_LIBRARIES = -Wl,-rpath,/usr/local/lib  /usr/local/lib/libboost_system.so.1.83.0  /usr/local/lib/libboost_filesystem.so.1.83.0  /usr/local/lib/libboost_atomic.so.1.83.0  /usr/lib/libssl.so  /usr/lib/libcrypto.so
   OBJECT_DIR = CMakeFiles/RestfulApi.dir

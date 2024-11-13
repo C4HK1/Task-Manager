@@ -37,6 +37,12 @@
 },
 {
   "directory": "/home/alex/Desktop/Task-Manager/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/models/invite.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/invite.cpp",
+  "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/models/invite.cpp",
+  "output": "CMakeFiles/RestfulApi.dir/src/models/invite.cpp.o"
+},
+{
+  "directory": "/home/alex/Desktop/Task-Manager/build",
   "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DCPP_JWT_USE_VENDORED_NLOHMANN_JSON -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/include -I/home/alex/Desktop/Task-Manager/Task-Manager-Server/libs/cpp-jwt/include -g -std=gnu++17 -o CMakeFiles/RestfulApi.dir/src/services/JWT_manager.cpp.o -c /home/alex/Desktop/Task-Manager/Task-Manager-Server/src/services/JWT_manager.cpp",
   "file": "/home/alex/Desktop/Task-Manager/Task-Manager-Server/src/services/JWT_manager.cpp",
   "output": "CMakeFiles/RestfulApi.dir/src/services/JWT_manager.cpp.o"
